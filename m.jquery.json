@@ -1,0 +1,26 @@
+{
+  "name": "m",
+  "title": "ad for mobile",
+  "description": "a ad js for mobile",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kunqian/ad4Mobile",
+  "author": {
+    "name": "ql434",
+    "email": "kunqian434@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kunqian/ad4Mobile.git"
+  },
+  "bugs": "https://github.com/kunqian/ad4Mobile/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kunqian/ad4Mobile/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
